@@ -85,18 +85,12 @@
 
 <br />
 
+---
 
-<h2>📬 Vamos nos conectar!</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/-%22Dados%20não%20são%20apenas%20números.%20São%20histórias%20esperando%20para%20serem%20descobertas.%22-8A2BE2?style=for-the-badge&labelColor=8A2BE2" alt="Frase roxa" />
+</p>
 
-
-<p align="left">
-  <!-- Botão clicável do LinkedIn -->
-  <a href="https://www.linkedin.com/in/cibele-nasareth-509005272/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <!-- Botão clicável de E-mail (abre para enviar mensagem) -->
-  <a href="mailto:cibele.snasareth@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<p align="center">
+  <strong>Obrigada por conhecer meu trabalho! ✨</strong>
 </p>
