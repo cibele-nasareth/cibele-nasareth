@@ -1,32 +1,19 @@
-<table border="0" width="100%">
-  <tr>
-    <td valign="top" width="60%">
-      <div align="left">
-        <span style="font-size: 18px;">Olá, eu sou</span><br>
-        <b style="font-size: 36px;">Cibele Nasareth </b><br>
-        <b style="font-size: 22px; color: #8A2BE2;">Analista de Dados em Formação</b><br>
-        <i>Transformo dados em insights que geram valor e apoiam decisões estratégicas.</i><br><br>
-        <a href="#projetos-em-destaque"><img src="https://img.shields.io/badge/VER_PROJETOS-8A2BE2?style=for-the-badge&logoColor=white" alt="Ver Projetos" /></a>
-        <a href="#sobre-mim"><img src="https://img.shields.io/badge/SOBRE_MIM-1E1E2E?style=for-the-badge&logoColor=white" alt="Sobre Mim" /></a>
-      </div>
-    </td>
-    <td valign="top" align="right" width="40%">
-      <blockquote style="border-left: 3px solid #8A2BE2; padding-left: 12px; text-align: left; margin: 0;">
-        <span style="color: #8A2BE2; font-size: 24px; font-weight: bold;">“</span><i>Dados não são apenas números, são histórias esperando para serem contadas.</i><span style="color: #8A2BE2; font-size: 24px; font-weight: bold;">”</span>
-      </blockquote>
-    </td>
-  </tr>
-</table>
+<h1>Olá, eu sou a Cibele 👋</h1>
 
-<br />
+<p>Estudante de Sistemas de Informação com foco em Análise de Dados. Desenvolvo projetos e análises utilizando SQL, Python, Power BI e Excel, aplicando técnicas de coleta, tratamento, análise e visualização de dados para gerar insights que apoiam a tomada de decisão.</p>
+
+<p>
+  <a href="#projetos-em-destaque"><img src="https://img.shields.io/badge/VER_PROJETOS-8A2BE2?style=for-the-badge&logoColor=white" alt="Ver Projetos"></a>
+  <a href="#vamos-nos-conectar"><img src="https://img.shields.io/badge/CONTATO-1E1E2E?style=for-the-badge&logoColor=white" alt="Contato"></a>
+</p>
 
 <a id="sobre-mim"></a>
 <table border="0" width="100%">
   <tr>
     <td width="55%" valign="top">
       <p style="font-size: 20px; font-weight: bold; margin-top: 0;">👤 Sobre mim</p>
-      <p>Sou estudante de Sistemas de Informação com foco em Análise de Dados. Desenvolvo projetos envolvendo SQL, Python, Power BI e Excel, aplicando técnicas de coleta, tratamento, análise e visualização de dados para gerar insights que apoiam a tomada de decisão. Busco uma oportunidade de estágio para aplicar meus conhecimentos e continuar evoluindo na área.</p>
-      <p>📍 <b>São Paulo, SP</b> &nbsp;|&nbsp; ✉️ <b>cibele.snasareth@gmail.com</b> &nbsp;|&nbsp; 🎂 <b>22 anos</b></p>
+      <p>Sou curiosa, dedicada e movida por desafios. Acredito que dados contam histórias e podem transformar realidades. Busco evoluir continuamente e impactar negócios por meio da análise de dados.</p>
+      <p>📍 <b>São Paulo, SP</b> &nbsp;|&nbsp; ✉️ <b>cibele.snasareth@gmail.com</b></p>
     </td>
     <td width="45%" valign="top">
       <p style="font-size: 20px; font-weight: bold; margin-top: 0;">🎯 Atualmente</p>
@@ -99,7 +86,8 @@
 
 <br />
 
-## 📬 Vamos nos conectar?
+<a id="vamos-nos-conectar"></a>
+<h2>📬 Vamos nos conectar!</h2>
 
 
 <p align="left">
