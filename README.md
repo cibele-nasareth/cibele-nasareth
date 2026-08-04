@@ -24,7 +24,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="55%" valign="top">
-      <img src="imagens/perfil.jpeg" align="left" width="130" height="130" style="border-radius: 50%; margin-right: 15px; border: 2px solid #8A2BE2;" alt="Foto de Perfil" />
+      <img src="https://github.com/cibele-nasareth.png" width="150px" align="left" style="border-radius: 50%; margin-right: 20px;">
       <p style="font-size: 20px; font-weight: bold; margin-top: 0;">👤 Sobre mim</p>
       <p>Sou estudante de Sistemas de Informação com foco em Análise de Dados. Desenvolvo projetos envolvendo SQL, Python, Power BI e Excel, aplicando técnicas de coleta, tratamento, análise e visualização de dados para gerar insights que apoiam a tomada de decisão. Busco uma oportunidade de estágio para aplicar meus conhecimentos e continuar evoluindo na área.</p>
       <p>📍 <b>São Paulo, SP</b> &nbsp;&nbsp;|&nbsp;&nbsp; ✉️ <b>cibele.snasareth@gmail.com</b> &nbsp;&nbsp;|&nbsp;&nbsp; 🎂 <b>22 anos</b></p>
