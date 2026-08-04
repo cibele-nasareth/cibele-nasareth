@@ -24,10 +24,9 @@
 <table border="0" width="100%">
   <tr>
     <td width="55%" valign="top">
-      <img src="https://github.com/cibele-nasareth.png" width="150px" align="left" style="border-radius: 50%; margin-right: 20px;">
       <p style="font-size: 20px; font-weight: bold; margin-top: 0;">👤 Sobre mim</p>
       <p>Sou estudante de Sistemas de Informação com foco em Análise de Dados. Desenvolvo projetos envolvendo SQL, Python, Power BI e Excel, aplicando técnicas de coleta, tratamento, análise e visualização de dados para gerar insights que apoiam a tomada de decisão. Busco uma oportunidade de estágio para aplicar meus conhecimentos e continuar evoluindo na área.</p>
-      <p>📍 <b>São Paulo, SP</b> &nbsp;&nbsp;|&nbsp;&nbsp; ✉️ <b>cibele.snasareth@gmail.com</b> &nbsp;&nbsp;|&nbsp;&nbsp; 🎂 <b>22 anos</b></p>
+      <p>📍 <b>São Paulo, SP</b> &nbsp;|&nbsp; ✉️ <b>cibele.snasareth@gmail.com</b> &nbsp;|&nbsp; 🎂 <b>22 anos</b></p>
     </td>
     <td width="45%" valign="top">
       <p style="font-size: 20px; font-weight: bold; margin-top: 0;">🎯 Atualmente</p>
@@ -43,8 +42,7 @@
 
 
 <!-- TECNOLOGIAS E FERRAMENTAS -->
-<p style="font-size: 20px; font-weight: bold;">🛠️ Tecnologias & Ferramentas</p>
-<hr />
+<h2>🛠️ Tecnologias & Ferramentas</h2>
 
 <table border="0">
   <tr align="center">
@@ -79,7 +77,7 @@
         <li>Análise exploratoria (EDA)</li>
       </ul>
       <p><b>Tecnologias:</b> Power BI, Power Query, Excel</p>
-      <a href="LINK_DO_SEU_REPOSITORIO_1"><b>Ver projeto 🔗</b></a>
+      <a href="https://github.com/cibele-nasareth/sales-dashboard-powerbi"><b>Ver projeto 🔗</b></a>
     </td>
     <!-- PROJETO 2 -->
     <td width="33%" valign="top">
@@ -94,7 +92,7 @@
         <li>Análise de vendas, clientes e produtos</li>
       </ul>
       <p><b>Tecnologias:</b> SQL, MySQL</p>
-      <a href="LINK_DO_SEU_REPOSITORIO_2"><b>Ver projeto 🔗</b></a>
+      <a href="https://github.com/cibele-nasareth/sales-analytics"><b>Ver projeto 🔗</b></a>
     </td>
   </tr>
 </table>
