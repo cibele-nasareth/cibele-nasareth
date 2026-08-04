@@ -1,10 +1,9 @@
-<h1>Olá, eu sou a Cibele 👋</h1>
+<h1>Olá, eu sou a Cibele </h1>
 
 <p>Estudante de Sistemas de Informação com foco em Análise de Dados. Desenvolvo projetos e análises utilizando SQL, Python, Power BI e Excel, aplicando técnicas de coleta, tratamento, análise e visualização de dados para gerar insights que apoiam a tomada de decisão.</p>
 
 <p>
   <a href="#projetos-em-destaque"><img src="https://img.shields.io/badge/VER_PROJETOS-8A2BE2?style=for-the-badge&logoColor=white" alt="Ver Projetos"></a>
-  <a href="#vamos-nos-conectar"><img src="https://img.shields.io/badge/CONTATO-1E1E2E?style=for-the-badge&logoColor=white" alt="Contato"></a>
 </p>
 
 <a id="sobre-mim"></a>
@@ -86,7 +85,7 @@
 
 <br />
 
-<a id="vamos-nos-conectar"></a>
+
 <h2>📬 Vamos nos conectar!</h2>
 
 
