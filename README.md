@@ -11,7 +11,7 @@
   <tr>
     <td width="55%" valign="top">
       <p style="font-size: 20px; font-weight: bold; margin-top: 0;">👤 Sobre mim</p>
-      <p>Sou curiosa, dedicada e movida por desafios. Acredito que dados contam histórias e podem transformar realidades. Busco evoluir continuamente e impactar negócios por meio da análise de dados.</p>
+      <p>Sou curiosa, organizada e gosto de entender como as coisas funcionam. Tenho facilidade para aprender, atenção aos detalhes e satisfação em resolver problemas de forma lógica. Estou sempre buscando evoluir e encaro novos desafios como oportunidades de crescimento.p>
       <p>📍 <b>São Paulo, SP</b> &nbsp;|&nbsp; ✉️ <b>cibele.snasareth@gmail.com</b></p>
     </td>
     <td width="45%" valign="top">
